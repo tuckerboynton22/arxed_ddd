@@ -1,3 +1,4 @@
+
 library(shiny)
 library(tidyverse)
 library(gt)
@@ -621,9 +622,10 @@ function(input, output, session) {
         
         district_df %>%
             gt() %>%
+            cols_width(everything() ~ px(250)) %>%
             gt_theme_538() %>%
             cols_label(V1 = gtExtras::img_header(label = district,
-                                                 img_url = "https://www.concordcarlisle.org/wp-content/themes/School/img/logo.png",
+                                                 img_url = paste0("https://github.com/tuckerboynton22/arxed_ddd/blob/main/Logos/", district_code, ".png?raw=true"),
                                                  height = 90))
         
     })
