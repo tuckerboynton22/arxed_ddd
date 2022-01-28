@@ -5,10 +5,10 @@ account: arxapp
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5410013
-bundleId: 5512667
+bundleId: 5515350
 url: https://arxapp.shinyapps.io/ArxApp/
-when: 1643247161.94355
-lastSyncTime: 1643247161.94356
+when: 1643305695.75749
+lastSyncTime: 1643305695.7575
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: old_server.R|www/.DS_Store|Logos
+ignoredFiles: old_server.R|www/.DS_Store

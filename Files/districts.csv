@@ -1,0 +1,426 @@
+"","district_name","district_code"
+"1","Abby Kelley Foster Charter Public (District)",4450000
+"2","Abington",10000
+"3","Academy Of the Pacific Rim Charter Public (District)",4120000
+"4","Acton-Boxborough",6e+06
+"5","Acushnet",30000
+"6","Advanced Math and Science Academy Charter (District)",4300000
+"7","Agawam",50000
+"8","Alma del Mar Charter School (District)",4090000
+"9","Amesbury",70000
+"10","Amherst",80000
+"11","Amherst-Pelham",6050000
+"12","Andover",90000
+"13","Argosy Collegiate Charter School (District)",35090000
+"14","Arlington",1e+05
+"15","Ashburnham-Westminster",6100000
+"16","Ashland",140000
+"17","Assabet Valley Regional Vocational Technical",8010000
+"18","Athol-Royalston",6150000
+"19","Atlantis Charter (District)",4910000
+"20","Attleboro",160000
+"21","Auburn",170000
+"22","Avon",180000
+"23","Ayer Shirley School District",6160000
+"24","Barnstable",2e+05
+"25","Baystate Academy Charter Public School (District)",35020000
+"26","Bedford",230000
+"27","Belchertown",240000
+"28","Bellingham",250000
+"29","Belmont",260000
+"30","Benjamin Banneker Charter Public (District)",4200000
+"31","Benjamin Franklin Classical Charter Public (District)",4470000
+"32","Berkley",270000
+"33","Berkshire Arts and Technology Charter Public (District)",4140000
+"34","Berkshire Hills",6180000
+"35","Berlin-Boylston",6200000
+"36","Beverly",3e+05
+"37","Billerica",310000
+"38","Blackstone Valley Regional Vocational Technical",8050000
+"39","Blackstone-Millville",6220000
+"40","Blue Hills Regional Vocational Technical",8060000
+"41","Boston",350000
+"42","Boston Collegiate Charter (District)",4490000
+"43","Boston Day and Evening Academy Charter (District)",4240000
+"44","Boston Green Academy Horace Mann Charter School (District)",4110000
+"45","Boston Preparatory Charter Public (District)",4160000
+"46","Boston Renaissance Charter Public (District)",4810000
+"47","Bourne",360000
+"48","Boxford",380000
+"49","Braintree",4e+05
+"50","Brewster",410000
+"51","Bridge Boston Charter School (District)",4170000
+"52","Bridgewater-Raynham",6250000
+"53","Brimfield",430000
+"54","Bristol County Agricultural",9100000
+"55","Bristol-Plymouth Regional Vocational Technical",8100000
+"56","Brockton",440000
+"57","Brooke Charter School (District)",4280000
+"58","Brookfield",450000
+"59","Brookline",460000
+"60","Burlington",480000
+"61","Cambridge",490000
+"62","Canton",5e+05
+"63","Cape Cod Lighthouse Charter (District)",4320000
+"64","Cape Cod Regional Vocational Technical",8150000
+"65","Carlisle",510000
+"66","Carver",520000
+"67","Central Berkshire",6350000
+"68","Chelmsford",560000
+"69","Chelsea",570000
+"70","Chesterfield-Goshen",6320000
+"71","Chicopee",610000
+"72","Christa McAuliffe Charter Public (District)",4180000
+"73","City on a Hill Charter Public School (District)",4370000
+"74","Clarksburg",630000
+"75","Clinton",640000
+"76","Codman Academy Charter Public (District)",4380000
+"77","Cohasset",650000
+"78","Collegiate Charter School of Lowell (District)",35030000
+"79","Community Charter School of Cambridge (District)",4360000
+"80","Community Day Charter Public School - Gateway (District)",4260000
+"81","Community Day Charter Public School - Prospect (District)",4400000
+"82","Community Day Charter Public School - R. Kingman Webster (District)",4310000
+"83","Concord",670000
+"84","Concord-Carlisle",6400000
+"85","Conservatory Lab Charter (District)",4390000
+"86","Conway",680000
+"87","Danvers",710000
+"88","Dartmouth",720000
+"89","Dedham",730000
+"90","Deerfield",740000
+"91","Dennis-Yarmouth",6450000
+"92","Dighton-Rehoboth",6500000
+"93","Douglas",770000
+"94","Dover",780000
+"95","Dover-Sherborn",6550000
+"96","Dracut",790000
+"97","Dudley Street Neighborhood Charter School (District)",4070000
+"98","Dudley-Charlton Reg",6580000
+"99","Duxbury",820000
+"100","East Bridgewater",830000
+"101","East Longmeadow",870000
+"102","Eastham",850000
+"103","Easthampton",860000
+"104","Easton",880000
+"105","Edgartown",890000
+"106","Edward M. Kennedy Academy for Health Careers (Horace Mann Charter) (District)",4520000
+"107","Erving",910000
+"108","Essex North Shore Agricultural and Technical School District",8170000
+"109","Everett",930000
+"110","Excel Academy Charter (District)",4100000
+"111","Fairhaven",940000
+"112","Fall River",950000
+"113","Falmouth",960000
+"114","Farmington River Reg",6620000
+"115","Fitchburg",970000
+"116","Florida",980000
+"117","Four Rivers Charter Public (District)",4130000
+"118","Foxborough",990000
+"119","Foxborough Regional Charter (District)",4460000
+"120","Framingham",1e+06
+"121","Francis W. Parker Charter Essential (District)",4780000
+"122","Franklin",1010000
+"123","Franklin County Regional Vocational Technical",8180000
+"124","Freetown-Lakeville",6650000
+"125","Frontier",6700000
+"126","Gardner",1030000
+"127","Gateway",6720000
+"128","Georgetown",1050000
+"129","Gill-Montague",6740000
+"130","Global Learning Charter Public (District)",4960000
+"131","Gloucester",1070000
+"132","Gosnold",1090000
+"133","Grafton",1100000
+"134","Granby",1110000
+"135","Greater Commonwealth Virtual District",39010000
+"136","Greater Fall River Regional Vocational Technical",8210000
+"137","Greater Lawrence Regional Vocational Technical",8230000
+"138","Greater Lowell Regional Vocational Technical",8280000
+"139","Greater New Bedford Regional Vocational Technical",8250000
+"140","Greenfield",1140000
+"141","Groton-Dunstable",6730000
+"142","Hadley",1170000
+"143","Halifax",1180000
+"144","Hamilton-Wenham",6750000
+"145","Hampden Charter School of Science East (District)",4990000
+"146","Hampden Charter School of Science West (District)",35160000
+"147","Hampden-Wilbraham",6800000
+"148","Hampshire",6830000
+"149","Hancock",1210000
+"150","Hanover",1220000
+"151","Harvard",1250000
+"152","Hatfield",1270000
+"153","Haverhill",1280000
+"154","Hawlemont",6850000
+"155","Helen Y. Davis Leadership Academy Charter Public (District)",4190000
+"156","Hill View Montessori Charter Public (District)",4550000
+"157","Hilltown Cooperative Charter Public (District)",4500000
+"158","Hingham",1310000
+"159","Holbrook",1330000
+"160","Holland",1350000
+"161","Holliston",1360000
+"162","Holyoke",1370000
+"163","Holyoke Community Charter (District)",4530000
+"164","Hoosac Valley Regional",6030000
+"165","Hopedale",1380000
+"166","Hopkinton",1390000
+"167","Hudson",1410000
+"168","Hull",1420000
+"169","Innovation Academy Charter (District)",4350000
+"170","Ipswich",1440000
+"171","King Philip",6900000
+"172","Kingston",1450000
+"173","KIPP Academy Boston Charter School (District)",4630000
+"174","KIPP Academy Lynn Charter (District)",4290000
+"175","Lawrence",1490000
+"176","Lawrence Family Development Charter (District)",4540000
+"177","Learning First Charter Public School (District)",4860000
+"178","Lee",1500000
+"179","Leicester",1510000
+"180","Lenox",1520000
+"181","Leominster",1530000
+"182","Leverett",1540000
+"183","Lexington",1550000
+"184","Libertas Academy Charter School (District)",35140000
+"185","Lincoln",1570000
+"186","Lincoln-Sudbury",6950000
+"187","Littleton",1580000
+"188","Longmeadow",1590000
+"189","Lowell",1600000
+"190","Lowell Community Charter Public (District)",4560000
+"191","Lowell Middlesex Academy Charter (District)",4580000
+"192","Ludlow",1610000
+"193","Lunenburg",1620000
+"194","Lynn",1630000
+"195","Lynnfield",1640000
+"196","Ma Academy for Math and Science",4680000
+"197","Malden",1650000
+"198","Manchester Essex Regional",6980000
+"199","Mansfield",1670000
+"200","Map Academy Charter School (District)",35170000
+"201","Marblehead",1680000
+"202","Marblehead Community Charter Public (District)",4640000
+"203","Marion",1690000
+"204","Marlborough",1700000
+"205","Marshfield",1710000
+"206","Martha's Vineyard",7e+06
+"207","Martha's Vineyard Charter (District)",4660000
+"208","Martin Luther King Jr. Charter School of Excellence (District)",4920000
+"209","Masconomet",7050000
+"210","Mashpee",1720000
+"211","MATCH Charter Public School (District)",4690000
+"212","Mattapoisett",1730000
+"213","Maynard",1740000
+"214","Medfield",1750000
+"215","Medford",1760000
+"216","Medway",1770000
+"217","Melrose",1780000
+"218","Mendon-Upton",7100000
+"219","Methuen",1810000
+"220","Middleborough",1820000
+"221","Middleton",1840000
+"222","Milford",1850000
+"223","Millbury",1860000
+"224","Millis",1870000
+"225","Milton",1890000
+"226","Minuteman Regional Vocational Technical",8300000
+"227","Mohawk Trail",7170000
+"228","Monomoy Regional School District",7120000
+"229","Monson",1910000
+"230","Montachusett Regional Vocational Technical",8320000
+"231","Mount Greylock",7150000
+"232","Mystic Valley Regional Charter (District)",4700000
+"233","Nahant",1960000
+"234","Nantucket",1970000
+"235","Narragansett",7200000
+"236","Nashoba",7250000
+"237","Nashoba Valley Regional Vocational Technical",8520000
+"238","Natick",1980000
+"239","Nauset",6600000
+"240","Needham",1990000
+"241","Neighborhood House Charter (District)",4440000
+"242","New Bedford",2010000
+"243","New Heights Charter School of Brockton (District)",35130000
+"244","New Salem-Wendell",7280000
+"245","Newburyport",2040000
+"246","Newton",2070000
+"247","Norfolk",2080000
+"248","Norfolk County Agricultural",9150000
+"249","North Adams",2090000
+"250","North Andover",2110000
+"251","North Attleborough",2120000
+"252","North Brookfield",2150000
+"253","North Middlesex",7350000
+"254","North Reading",2170000
+"255","Northampton",2100000
+"256","Northampton-Smith Vocational Agricultural",4060000
+"257","Northboro-Southboro",7300000
+"258","Northborough",2130000
+"259","Northbridge",2140000
+"260","Northeast Metropolitan Regional Vocational Technical",8530000
+"261","Northern Berkshire Regional Vocational Technical",8510000
+"262","Norton",2180000
+"263","Norwell",2190000
+"264","Norwood",2200000
+"265","Oak Bluffs",2210000
+"266","Old Colony Regional Vocational Technical",8550000
+"267","Old Rochester",7400000
+"268","Old Sturbridge Academy Charter Public School (District)",35150000
+"269","Orange",2230000
+"270","Orleans",2240000
+"271","Oxford",2260000
+"272","Palmer",2270000
+"273","Pathfinder Regional Vocational Technical",8600000
+"274","Paulo Freire Social Justice Charter School (District)",35010000
+"275","Peabody",2290000
+"276","Pelham",2300000
+"277","Pembroke",2310000
+"278","Pentucket",7450000
+"279","Petersham",2340000
+"280","Phoenix Academy Public Charter High School Lawrence (District)",35180000
+"281","Phoenix Academy Public Charter High School Springfield (District)",35080000
+"282","Phoenix Charter Academy (District)",4930000
+"283","Pioneer Charter School of Science (District)",4940000
+"284","Pioneer Charter School of Science II (PCSS-II) (District)",35060000
+"285","Pioneer Valley",7500000
+"286","Pioneer Valley Chinese Immersion Charter (District)",4970000
+"287","Pioneer Valley Performing Arts Charter Public (District)",4790000
+"288","Pittsfield",2360000
+"289","Plainville",2380000
+"290","Plymouth",2390000
+"291","Plympton",2400000
+"292","Prospect Hill Academy Charter (District)",4870000
+"293","Provincetown",2420000
+"294","Quabbin",7530000
+"295","Quaboag Regional",7780000
+"296","Quincy",2430000
+"297","Ralph C Mahar",7550000
+"298","Randolph",2440000
+"299","Reading",2460000
+"300","Revere",2480000
+"301","Richmond",2490000
+"302","Rising Tide Charter Public (District)",4830000
+"303","River Valley Charter (District)",4820000
+"304","Rochester",2500000
+"305","Rockland",2510000
+"306","Rockport",2520000
+"307","Rowe",2530000
+"308","Roxbury Preparatory Charter (District)",4840000
+"309","Salem",2580000
+"310","Salem Academy Charter (District)",4850000
+"311","Sandwich",2610000
+"312","Saugus",2620000
+"313","Savoy",2630000
+"314","Scituate",2640000
+"315","Seekonk",2650000
+"316","Sharon",2660000
+"317","Shawsheen Valley Regional Vocational Technical",8710000
+"318","Sherborn",2690000
+"319","Shrewsbury",2710000
+"320","Shutesbury",2720000
+"321","Silver Lake",7600000
+"322","Sizer School: A North Central Charter Essential (District)",4740000
+"323","Somerset",2730000
+"324","Somerset Berkley Regional School District",7630000
+"325","Somerville",2740000
+"326","South Hadley",2780000
+"327","South Middlesex Regional Vocational Technical",8290000
+"328","South Shore Charter Public (District)",4880000
+"329","South Shore Regional Vocational Technical",8730000
+"330","Southampton",2750000
+"331","Southborough",2760000
+"332","Southbridge",2770000
+"333","Southeastern Regional Vocational Technical",8720000
+"334","Southern Berkshire",7650000
+"335","Southern Worcester County Regional Vocational School District",8760000
+"336","Southwick-Tolland-Granville Regional School District",7660000
+"337","Spencer-E Brookfield",7670000
+"338","Springfield",2810000
+"339","Springfield International Charter (District)",4410000
+"340","Springfield Preparatory Charter School (District)",35100000
+"341","Stoneham",2840000
+"342","Stoughton",2850000
+"343","Sturbridge",2870000
+"344","Sturgis Charter Public (District)",4890000
+"345","Sudbury",2880000
+"346","Sunderland",2890000
+"347","Sutton",2900000
+"348","Swampscott",2910000
+"349","Swansea",2920000
+"350","Tantasqua",7700000
+"351","Taunton",2930000
+"352","TEC Connections Academy Commonwealth Virtual School District",39020000
+"353","Tewksbury",2950000
+"354","Tisbury",2960000
+"355","Topsfield",2980000
+"356","Tri-County Regional Vocational Technical",8780000
+"357","Triton",7730000
+"358","Truro",3e+06
+"359","Tyngsborough",3010000
+"360","UP Academy Charter School of Boston (District)",4800000
+"361","UP Academy Charter School of Dorchester (District)",35050000
+"362","Up-Island Regional",7740000
+"363","Upper Cape Cod Regional Vocational Technical",8790000
+"364","Uxbridge",3040000
+"365","Veritas Preparatory Charter School (District)",4980000
+"366","Wachusett",7750000
+"367","Wakefield",3050000
+"368","Wales",3060000
+"369","Walpole",3070000
+"370","Waltham",3080000
+"371","Ware",3090000
+"372","Wareham",3100000
+"373","Watertown",3140000
+"374","Wayland",3150000
+"375","Webster",3160000
+"376","Wellesley",3170000
+"377","Wellfleet",3180000
+"378","West Boylston",3220000
+"379","West Bridgewater",3230000
+"380","West Springfield",3320000
+"381","Westborough",3210000
+"382","Westfield",3250000
+"383","Westford",3260000
+"384","Westhampton",3270000
+"385","Weston",3300000
+"386","Westport",3310000
+"387","Westwood",3350000
+"388","Weymouth",3360000
+"389","Whately",3370000
+"390","Whitman-Hanson",7800000
+"391","Whittier Regional Vocational Technical",8850000
+"392","Williamsburg",3400000
+"393","Wilmington",3420000
+"394","Winchendon",3430000
+"395","Winchester",3440000
+"396","Winthrop",3460000
+"397","Woburn",3470000
+"398","Worcester",3480000
+"399","Worthington",3490000
+"400","Wrentham",3500000
+"401","State Totals",0
+"402","City on a Hill Charter Public School Circuit Street (District)",4370000
+"403","Greenfield Commonwealth Virtual District",39010000
+"404","Sabis International Charter (District)",4410000
+"405","Southern Worcester County Regional Vocational Technical",8760000
+"406","Bentley Academy Charter School (District)",35110000
+"407","City on a Hill Charter Public School Dudley Square (District)",35040000
+"408","City on a Hill Charter Public School New Bedford (District)",35070000
+"409","Seven Hills Charter Public (District)",4860000
+"410","Adams-Cheshire",6030000
+"411","Barnstable Community Horace Mann Charter Public (District)",4270000
+"412","Berlin",280000
+"413","Boylston",390000
+"414","Lanesborough",1480000
+"415","Massachusetts Virtual Academy at Greenfield Commonwealth Virtual District",39010000
+"416","Silver Hill Horace Mann Charter (District)",4770000
+"417","Williamstown",3410000
+"418","Hampden Charter School of Science (District)",4990000
+"419","Brooke Charter School East Boston (District)",4570000
+"420","Brooke Charter School Mattapan (District)",4430000
+"421","Brooke Charter School Roslindale (District)",4280000
+"422","Dorchester Collegiate Academy Charter (District)",4750000
+"423","Lowell Collegiate Charter School (District)",35030000
+"424","New Liberty Charter School of Salem (District)",4670000
+"425","Tri County Regional Vocational Technical",8780000
